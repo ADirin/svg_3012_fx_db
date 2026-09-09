@@ -1,7 +1,7 @@
-package app.dao;
+package app;
 
-import app.db.DatabaseConnection;
-import app.model.TravelType;
+import app.DatabaseConnection;
+import app.TravelType;
 
 import java.sql.*;
 import java.util.ArrayList;

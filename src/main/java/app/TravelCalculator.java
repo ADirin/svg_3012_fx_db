@@ -1,3 +1,5 @@
+package app;
+
 public class TravelCalculator {
 
     public static void validateInputs(double speed, double distance) {
